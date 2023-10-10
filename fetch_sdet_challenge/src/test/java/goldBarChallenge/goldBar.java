@@ -92,6 +92,9 @@ public class goldBar {
 
         Waiter.pause(5);
 
+        driver.quit();
+
+
     }
 
 }
